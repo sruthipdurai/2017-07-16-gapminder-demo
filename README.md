@@ -2,4 +2,4 @@
 demo repository for learning git with gap minder data
 
 Code from a software carpentry workshop ucsf July 15,16 2017
-we can also add text from local machines
+we can also add paragraphs from local machines
